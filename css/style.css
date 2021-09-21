@@ -85,6 +85,9 @@
   justify-content: space-between;
   box-shadow: 0 0 15px;
 }
+.blok_w img{
+  width: 400px;
+}
 .knopka {
   background-color: #383e48;
   width: 200px;
@@ -286,6 +289,7 @@
     width: 200px;
   }
   .blok_w img{
+    display: flex;
     width: 359px;
   }
 } 
