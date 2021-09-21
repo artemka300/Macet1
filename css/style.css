@@ -1,0 +1,220 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.promo {
+  background: url(../img/promo1.png) center center/cover no-repeat;
+  height: 1100px;
+  padding: 20px 30px;
+}
+.logo {
+  height: 100px;
+  width: 200px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.text {
+  margin-top: 20px;
+}
+.text .t1 {
+  margin: 0 30px 0 0;
+}
+.text a:hover {
+  color: #df9e03;
+}
+.text a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+.t2 {
+  font-size: 70px;
+}
+.text1 {
+  color: white;
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  height: 60%;
+}
+.text2 {
+  color: white;
+  display: flex;
+  font-size: 30px;
+}
+.text3 {
+  color: white;
+  display: flex;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.ps {
+  font-size: 100px;
+}
+.p1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 400px;
+}
+.p2 {
+  display: flex;
+}
+.p3 {
+  display: flex;
+}
+.promo1 {
+  background-color: #7d8fa6;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bloc {
+  background-color: white;
+  height: 90px;
+  width: 1600px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 0 15px;
+}
+.knopka {
+  background-color: #383e48;
+  width: 200px;
+  height: 90px;
+  border-radius: 30px;
+}
+.text4 {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.knopka1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.di1 input {
+  border: none;
+  border-bottom: solid 1px black;
+  outline: none;
+  width: 100%;
+}
+.promo2 {
+  background-color: #7d8fa6;
+  width: 100%;
+  padding-top: 50px;
+}
+.akk1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 20%;
+}
+.blok {
+  background-color: #383e48;
+  width: 400px;
+  height: 600px;
+  padding-top: 15px;
+  border-radius: 30px;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 0 15px;
+}
+.blok h1 {
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+}
+.blok img {
+  width: 400px;
+  padding-top: 10px;
+}
+.blok p {
+  color: white;
+  font-size: 23px;
+  padding: 15px 10px 0 10px;
+}
+.blok button {
+  background: none;
+  border: white solid 2px;
+  border-radius: 20px;
+  width: 350px;
+  height: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+.blok_w {
+  height: 85%;
+}
+.pox {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 100px;
+}
+.pox1 {
+  background-color: white;
+  width: 400px;
+  height: 70px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.poz {
+  display: flex;
+  flex-direction: column;
+}
+.poz p {
+  font-size: 20px;
+  height: 90px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.poz input {
+  border: none;
+  border-bottom: solid 1px black;
+  outline: none;
+  width: 100%;
+  margin-bottom: 15px;
+  margin-left: 15px;
+}
+.pox1 button {
+  background-color: #383e48;
+  border-radius: 20px;
+  width: 150px;
+  color: white;
+  font-size: 20px;
+}
+.promo3{
+    background-color: #383e48;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+.tel{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 90px;
+}
