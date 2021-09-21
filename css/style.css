@@ -226,12 +226,9 @@
   }
   .text a
   {
-    font-size: 1.2rem;
+    font-size: 1rem;
   }
-  .text  
-  {
-    font-size: 1.2rem;
-  }
+ 
   .text3{
     flex-direction: column;
   }
@@ -251,6 +248,7 @@
   }
   .di1{
     margin: 10px 0;
+  
   }
   .promo1{
     height: auto;
@@ -275,4 +273,14 @@
   overflow-x: hidden;
   width: 100vw;
  }
+ .t2{
+   display: flex;
+   justify-content: center;
+ }
+  .pw{
+    width: 200px;
+  }
+  .blok_w img{
+    width: 359px;
+  }
 } 
