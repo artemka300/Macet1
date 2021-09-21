@@ -43,6 +43,7 @@
 .rig{
     display: flex;
     justify-content: space-around;
+    flex-direction: row-reverse;
 }
 a:hover{
     color: #df9e03;

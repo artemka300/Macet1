@@ -1,0 +1,17 @@
+.rig button{
+    background-color: #383e48;
+    width: 200px;
+    height: 90px;
+    border-radius: 30px;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #df9e03;
+    
+  }
