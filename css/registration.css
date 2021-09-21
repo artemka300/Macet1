@@ -1,0 +1,50 @@
+.promo1{
+    height: 100vh;
+}
+.text4{
+    flex-direction: column;
+}
+.bloc{
+    flex-direction: column;
+    height: auto;
+    width: 600px;
+    padding: 20px;
+}
+.nazat{
+    background-color: #383e48;
+    width: 200px;
+    height: 90px;
+    border-radius: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+ .rig a{
+    color: white;
+    text-decoration: none;
+    
+}
+.di1 p{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.di1 input{
+    width: 550px;
+    margin-top: 10px;
+}
+
+.knopca a{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.rig{
+    display: flex;
+    justify-content: space-around;
+}
+a:hover{
+    color: #df9e03;
+    
+  }
